@@ -1,0 +1,16 @@
+
+# Core scientific and ML libraries
+torch
+numpy
+Pillow
+matplotlib
+tqdm
+
+# Data handling and utilities
+requests
+zipfile36  # Only needed for Python <3.7, otherwise zipfile is built-in
+io  # Standard library, no install needed
+urllib3  # For robust HTTP requests (urllib.request is stdlib, but urllib3 is often used)
+
+# For training script
+torchvision  # If you use torchvision datasets or transforms
