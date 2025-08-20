@@ -107,3 +107,9 @@ If you use this code or ideas in your research, please cite:
 
 ---
 
+## 👥 Contributors
+
+This project was developed by:
+- Gopiraman 
+- Arpit Garg
+- Jatin Singla
