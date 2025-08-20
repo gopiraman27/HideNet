@@ -521,7 +521,7 @@ def main():
 
     # Demo RDH methods
     # Generate random binary data
-    payload_size = 500  # Adjust based on image capacity
+    payload_size = 10000  # Adjust based on image capacity
     data_w1 = generate_random_bits(payload_size // 2)
     data_w2 = generate_random_bits(payload_size - len(data_w1))
 
